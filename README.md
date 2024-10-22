@@ -20,8 +20,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajar-aswad&show_icons=true&locale=en&layout=compact" alt="hajar-aswad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hajar-aswad&show_icons=true&locale=en" alt="hajar-aswad" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hajar%20aswad%20&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hajar-aswad&" alt="hajar-aswad" /></p>
-  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/37abae1350fe3344aebaaebfba4227dfa1ee6e8cf55efed02329fbe00dbf63c1/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966">
+  <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/37abae1350fe3344aebaaebfba4227dfa1ee6e8cf55efed02329fbe00dbf63c1/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966">
 

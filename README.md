@@ -1,24 +1,3 @@
-<!--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm Hajar</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
@@ -46,5 +25,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hajar-aswad&" alt="hajar-aswad" /></p>
   <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/37abae1350fe3344aebaaebfba4227dfa1ee6e8cf55efed02329fbe00dbf63c1/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966">
 
-
--->

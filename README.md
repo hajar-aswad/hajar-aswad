@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hajar Aswad</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🔭 I’m currently Flutter developer & Vuejs developer.
+- 🔭 I’m currently Vuejs developer & Flutter developer.
 
 - 🌱 I’m currently learning Computer science  ( Software Engineering department ).
 
